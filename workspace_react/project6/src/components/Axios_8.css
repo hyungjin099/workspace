@@ -1,0 +1,19 @@
+table{
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin: 0 auto;
+  width: 500px;
+}
+
+tr, td{
+  border: 1px solid black;
+}
+
+td{
+  padding: 8px;
+}
+
+.btn-div{
+  width: 100px;
+  margin: 20px auto;
+}
